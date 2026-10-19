@@ -18,8 +18,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=stateri-science&show_icons=true&bg_color=FFF9DB&title_color=E0629A&text_color=C2548A&icon_color=F29BBF&border_color=F7C5D9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stateri-science&layout=compact&bg_color=FFF9DB&title_color=E0629A&text_color=C2548A&border_color=F7C5D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=stateri-science&show_icons=true&bg_color=00000000&title_color=F29BBF&text_color=F7C5D9&icon_color=FFE08A&border_color=F7C5D9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stateri-science&layout=compact&bg_color=00000000&title_color=F29BBF&text_color=F7C5D9&border_color=F7C5D9" />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=stateri-science&background=FFF9DB&border=F7C5D9&ring=F29BBF&fire=E0629A&currStreakNum=E0629A&currStreakLabel=E0629A&sideNums=C2548A&sideLabels=C2548A&dates=B58AA0" />
+<img src="https://streak-stats.demolab.com?user=stateri-science&background=00000000&border=F7C5D9&ring=F29BBF&fire=FFE08A&currStreakNum=F29BBF&currStreakLabel=F29BBF&sideNums=F7C5D9&sideLabels=F7C5D9&dates=D9B3C4" />
 
 </div>
 
